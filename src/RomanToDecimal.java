@@ -128,15 +128,6 @@ public class RomanToDecimal {
         return romanlogical;
     }
 
-    /*public boolean logicalRoman(String roman, int decimal)  {
-        for (boolean b = roman == decimalToRoman(decimal));
-
-        return int decimal;
-
-        //return t/f;
-        //don't really need this??
-        return null;
-    }*/
 
     /**
      * This is the main method of this class and it calls the inputs and organizes them into invalid, logically incorrect, and logical
